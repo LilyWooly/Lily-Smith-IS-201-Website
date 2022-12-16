@@ -1,0 +1,22 @@
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal ;
+  }
+  li {
+    font-weight: normal;
+    text-decoration: none;
+  }
+.titles{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.resumelinks{
+
+  color:  #212529;
+  font-weight: bold;
+}
+a:link {
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: underline;
+}
